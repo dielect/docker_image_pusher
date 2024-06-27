@@ -1,2 +1,3 @@
 lobehub/lobe-chat
 ghcr.io/owo-network/deeplx
+justsong/one-api
