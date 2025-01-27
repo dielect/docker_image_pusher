@@ -1,2 +1,1 @@
 lobehub/lobe-chat
-ghcr.io/owo-network/deeplx
